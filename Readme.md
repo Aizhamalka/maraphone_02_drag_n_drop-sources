@@ -1,3 +1,3 @@
-### Создаём слайдер картинок
+### Deployed link
 
-Напишем впечатляющий слайдер картинок
+https://aizhamalka.github.io/maraphone_02_drag_n_drop-sources/
